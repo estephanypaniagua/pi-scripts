@@ -1,4 +1,5 @@
 # pi-scripts
+Pasos para permitir que un Raspberry Pi se conecte a un enrutador wifi conocido o genere automáticamente un punto de acceso de punto de acceso a Internet si no se encuentra dentro del rango de una red conocida.
 
 Basado en [este tutorial][1].
 
